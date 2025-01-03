@@ -1,0 +1,11 @@
+spring:
+  dataSource:
+    userName: root
+    password: root@123
+    url: jdbc:mysql://localhost:3306/DomeEmployee
+    
+    
+  jpa:
+    hibernate:
+      ddl-auto: update
+    

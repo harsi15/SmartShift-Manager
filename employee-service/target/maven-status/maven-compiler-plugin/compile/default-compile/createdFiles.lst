@@ -1,0 +1,8 @@
+com\syr\zen\employee_service\controllers\EmployeeController.class
+com\syr\zen\employee_service\repositories\EmployeeRepository.class
+com\syr\zen\employee_service\dto\Employee.class
+com\syr\zen\employee_service\EmployeeApplication.class
+com\syr\zen\employee_service\dto\Verification.class
+com\syr\zen\employee_service\services\EmployeeService.class
+com\syr\zen\employee_service\dto\Login.class
+com\syr\zen\employee_service\repositories\entities\EmployeeEntity.class
