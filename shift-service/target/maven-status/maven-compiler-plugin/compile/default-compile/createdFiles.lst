@@ -1,0 +1,10 @@
+com\syr\zen\shift_service\repositories\FinalEventSheetRepository.class
+com\syr\zen\shift_service\services\ShiftService.class
+com\syr\zen\shift_service\controllers\ShiftController.class
+com\syr\zen\shift_service\dto\Event.class
+com\syr\zen\shift_service\dto\DropShift.class
+com\syr\zen\shift_service\repositories\entities\FinalEventSheetEntity.class
+com\syr\zen\shift_service\repositories\ShiftRepository.class
+com\syr\zen\shift_service\ShiftApplication.class
+com\syr\zen\shift_service\dto\EventSheet.class
+com\syr\zen\shift_service\repositories\entities\ShiftEntity.class
